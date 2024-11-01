@@ -1,0 +1,11 @@
+* {
+    color: black;
+    background-color: white;
+
+}
+
+.card-container {
+    border: solid 1px black;
+    padding: 40px;
+    border-style: none !important;
+}
